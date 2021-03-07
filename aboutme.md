@@ -4,13 +4,6 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I call myself TheReviewDude. I just write this blog because I love to share my views on the books I read, and it motivates me to read more. This process makes me think more about the stuff I read and I get to learn more.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+For any sort of feedback or comment, feel free to contact me at [thereviewdude@protonmail.com](mailto:thereviewdude@protonmail.com)
