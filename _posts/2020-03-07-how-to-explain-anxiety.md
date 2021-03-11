@@ -3,7 +3,7 @@ layout: post
 title: How to Explain Anxiety
 subtitle: Excerpt from Hardcore Self Help by Robert Duff
 cover-img: /assets/img/anxiety.png
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/fuckanxiety.jpg
 share-img: /assets/img/anxiety.png
 tags: [books, anxiety, message]
 ---
