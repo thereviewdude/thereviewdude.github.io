@@ -1,0 +1,45 @@
+<style>
+    @btn-bg-color: #638F81;
+@btn-text-color: #fff;
+
+.btn1 {
+  border-bottom: solid 4px darken(@btn-bg-color,25%);
+  text-decoration: none;
+  &:hover {
+    background: lighten(@btn-bg-color,10%);
+  }
+  &.btn-arrow {
+    position: relative;
+    padding-right: 4em;
+    // overlay block
+    &:before {
+      content: "";
+      position: absolute;
+      display: block;
+      top: 0;
+      right: 0;
+      bottom: -4px;
+      width: 3em;
+      background: #fff;
+      opacity: 0.3;
+    }
+    // arrow
+    &:after {
+      @arrow-size: 0.4em;
+      content: "";
+      display: block;
+      position: absolute;
+      top: 0.85em;
+      right: 1.2em;
+      width: 0; 
+      height: 0; 
+      border-top: @arrow-size solid transparent;
+      border-bottom: @arrow-size solid transparent;
+      border-left: @arrow-size solid #fff;
+    }
+  }
+}
+
+
+</style>
+<a href="#" class="btn1">Go THERE</a><br>
